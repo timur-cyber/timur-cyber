@@ -1,4 +1,7 @@
 # My name is Temurmalik
+> "The only way to do great work is to love what you do"
+>
+><i>- Steven Paul Jobs</i>
 ### I'm a Python (Full-stack) Developer from Uzbekistan🇺🇿
 
 ### 👨‍💻 My skills:
