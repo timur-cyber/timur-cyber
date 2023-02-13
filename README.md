@@ -9,6 +9,9 @@
 - Django & Flask Web Development
 - Websites Development (HTML, CSS, JS)
 - SQL (SQLite3, PostgreSQL, MySQL)
+- GraphQL
+- Redis
+- Celery
 - Testing code (unittest, pytest)
 - Git
 - SSH & Deploy
