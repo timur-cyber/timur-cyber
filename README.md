@@ -2,22 +2,19 @@
 > "The only way to do great work is to love what you do"
 >
 ><i>- Steven Paul Jobs</i>
-### I'm a Python (Full-stack) Developer from Uzbekistan🇺🇿
+### I'm Software & AI/ML Engineer
 
 ### 👨‍💻 My skills:
-- Pure Python
-- Django & Flask Web Development
-- Websites Development (HTML, CSS, JS)
-- SQL (SQLite3, PostgreSQL, MySQL)
-- GraphQL
-- Redis
-- Celery
-- Testing code (unittest, pytest)
-- Git
-- SSH & Deploy
-- Linux, Ubuntu
-- Docker
-- Data Science
+- Pure Python (automation, scripting, logic)
+- Django & FastAPI Web Development (APIs, backend, architecture)
+- Web Development (frontend, UI, interaction)
+- Databases (design, queries, optimization)
+- Testing code (TDD, coverage, stability)
+- Project Deploy (Linux, SSH, Docker, CI/CD)
+- Data Science (analysis, visualization, insights)
+- Machine Learning (models, training, prediction)
+- Deep Learning (neural networks, NLP, computer vision)
+- LLM (prompting, fine-tuning, integration)
 
 ### Tools:
 
@@ -26,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
