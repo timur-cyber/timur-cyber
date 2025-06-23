@@ -5,16 +5,16 @@
 ### I'm Software & AI/ML Engineer
 
 ### 👨‍💻 My skills:
-- Pure Python (automation, scripting, logic)
-- Django & FastAPI Web Development (APIs, backend, architecture)
-- Web Development (frontend, UI, interaction)
-- Databases (design, queries, optimization)
-- Testing code (TDD, coverage, stability)
-- Project Deploy (Linux, SSH, Docker, CI/CD)
-- Data Science (analysis, visualization, insights)
-- Machine Learning (models, training, prediction)
-- Deep Learning (neural networks, NLP, computer vision)
-- LLM (prompting, fine-tuning, integration)
+- *Pure Python* (automation, scripting, logic)
+- *Django & FastAPI Web Development* (APIs, backend, architecture)
+- *Web Development* (frontend, UI, interaction)
+- *Databases* (design, queries, optimization)
+- *Testing code* (TDD, coverage, stability)
+- *Project Deploy* (Linux, SSH, Docker, CI/CD)
+- *Data Science* (analysis, visualization, insights)
+- *Machine Learning* (models, training, prediction)
+- *Deep Learning* (neural networks, NLP, computer vision)
+- *LLM* (prompting, fine-tuning, integration)
 
 ### Tools:
 
